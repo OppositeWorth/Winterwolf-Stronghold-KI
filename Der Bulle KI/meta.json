@@ -1,0 +1,19 @@
+{
+  "name": "Bulle",
+  "description": "Die Bulle KI aus Winterchaos",
+  "author": "Winterwolf",
+  "link": "",
+  "version": "3.0.2",
+  "defaultLang": "de",
+  "supportedLang": ["de", "en"],
+  "switched": {
+    "binks": false,
+    "speech": false,
+    "aic": true,
+    "aiv": true,
+    "lord": true,
+    "startTroops": true,
+    "lines": false,
+    "portrait": true
+  }
+}
