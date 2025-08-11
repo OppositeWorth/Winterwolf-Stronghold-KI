@@ -2,7 +2,7 @@
   "name": "Bulle",
   "description": "Die Bulle KI aus Winterchaos",
   "author": "Winterwolf",
-  "link": "",
+  "link": "https://github.com/OppositeWorth/Winterwolf-Stronghold-KI",
   "version": "3.0.2",
   "defaultLang": "de",
   "supportedLang": ["de", "en"],
@@ -16,4 +16,5 @@
     "lines": false,
     "portrait": true
   }
+
 }
